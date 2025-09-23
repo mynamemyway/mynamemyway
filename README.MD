@@ -89,7 +89,6 @@ me.say_hi()
   <a href="https://www.sqlite.org/index.html" target="_blank"><img style="margin: 10px;" src="https://img.shields.io/badge/SQLite-21232B?style=for-the-badge&logo=sqlite&logoColor=5FDBFB" alt="SQLite" height="50" /></a>
   <a href="https://pydantic-docs.helpmanual.io/" target="_blank"><img style="margin: 10px;" src="https://img.shields.io/badge/Pydantic-21232B?style=for-the-badge&logo=pydantic&logoColor=5FDBFB" alt="Pydantic" height="50" /></a>
   <a href="https://pypi.org/project/passlib/" target="_blank"><img style="margin: 10px;" src="https://img.shields.io/badge/Passlib-21232B?style=for-the-badge&logo=pypi&logoColor=5FDBFB" alt="Passlib" height="50" /></a>
-  <a href="https://pypi.org/project/bcrypt/" target="_blank"><img style="margin: 10px;" src="https://img.shields.io/badge/Bcrypt-21232B?style=for-the-badge&logo=pypi&logoColor=5FDBFB" alt="Bcrypt" height="50" /></a>
   <a href="https://jwt.io/" target="_blank"><img style="margin: 10px;" src="https://img.shields.io/badge/JWT-21232B?style=for-the-badge&logo=json-web-tokens&logoColor=5FDBFB" alt="JWT" height="50" /></a>
   <a href="https://fastapi.tiangolo.com/" target="_blank"><img style="margin: 10px;" src="https://img.shields.io/badge/FastAPI-21232B?style=for-the-badge&logo=fastapi&logoColor=5FDBFB" alt="FastAPI" height="50" /></a>
   <a href="https://github.com/" target="_blank"><img style="margin: 10px;" src="https://img.shields.io/badge/GitHub-21232B?style=for-the-badge&logo=github&logoColor=5FDBFB" alt="Git" height="50" /></a>
