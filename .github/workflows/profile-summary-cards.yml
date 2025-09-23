@@ -13,4 +13,5 @@ jobs:
       - uses: vn7n24fzkq/github-profile-summary-cards@release
         with:
           USERNAME: mynamemyway
-          AUTO_PUSH: ${{ secrets.GH_TOKEN }}
+          AUTO_PUSH: true
+          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
