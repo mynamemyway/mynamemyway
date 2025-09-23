@@ -81,8 +81,8 @@ Backend часть построена мной с нуля: от архитек�
 ## 🔥 Github Stats  
 
 <div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mynamemyway&theme=ayu_mirage" height="162" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mynamemyway&theme=ayu_mirage" height="162" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mynamemyway&theme=ayu_mirage" height="161" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mynamemyway&theme=ayu_mirage" height="161" />
 </div>
 
 ##
