@@ -6,8 +6,10 @@ on:
   workflow_dispatch:
 
 jobs:
-  update-stats:
+  metrics-cards:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - uses: actions/checkout@v3
       - name: Generate GitHub stats
@@ -18,4 +20,4 @@ jobs:
           plugin_isocalendar_duration: full-year
           base: header, activity, community, repositories, metadata
           config_timezone: Europe/Moscow
-          output_filepath: stats.svg
+          output_filepath: github-metrics.svg
