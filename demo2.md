@@ -2,15 +2,17 @@
 
 <br/>
 
-<a href="https://instagram.com/myname_myway" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>
-<a href="https://github.com/mynamemyway" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://t.me/mynamemyway" target="_blank">
-<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" height="50" />
-</a>
+<div align="left">
+  <a href="https://t.me/mynamemyway" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-21232B?style=for-the-badge&logo=telegram&logoColor=5FDBFB" alt="Telegram" height="50" style="margin: 10px;" />
+  </a>
+  <a href="https://instagram.com/myname_myway" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-21232B?style=for-the-badge&logo=instagram&logoColor=5FDBFB" alt="Instagram" height="50" style="margin: 10px;" />
+  </a>
+  <a href="https://github.com/mynamemyway" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-21232B?style=for-the-badge&logo=github&logoColor=5FDBFB" alt="GitHub" height="50" style="margin: 10px;" />
+  </a>
+</div>
 
 <br/>
 
@@ -81,33 +83,35 @@ me.say_hi()
 
 ## 🛠 Stack and tools
 <div align="center">
-<a href="https://www.uvicorn.org/" target="_blank"><img style="margin: 10px;" src="https://img.shields.io/badge/Uvicorn-FF4088?style=for-the-badge&logo=uvicorn&logoColor=white" alt="Uvicorn" height="50" /></a>
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px;" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" height="50" /></a>
-<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px;" src="https://img.shields.io/badge/PostgreSQL-31619E?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" height="50" /></a>
-<a href="https://pypi.org/project/passlib/" target="_blank"><img style="margin: 10px;" src="https://img.shields.io/badge/Passlib-3776AB?style=for-the-badge&logo=pypi&logoColor=white" alt="Passlib" height="50" /></a>
-<a href="https://www.sqlalchemy.org/" target="_blank"><img style="margin: 10px;" src="https://img.shields.io/badge/SQLAlchemy-DD322A?style=for-the-badge&logo=sqlalchemy&logoColor=white" alt="SQLAlchemy" height="50" /></a>
-<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px;" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" height="50" /></a>
-<a href="https://alembic.sqlalchemy.org/en/latest/" target="_blank"><img style="margin: 10px;" src="https://img.shields.io/badge/Alembic-14A0F1?style=for-the-badge&logo=alembic&logoColor=white" alt="Alembic" height="50" /></a>
-<a href="https://pytest.org/" target="_blank"><img style="margin: 10px;" src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" alt="Pytest" height="50" /></a>
-<a href="https://pydantic-docs.helpmanual.io/" target="_blank"><img style="margin: 10px;" src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white" alt="Pydantic" height="50" /></a>
-<a href="https://fastapi.tiangolo.com/" target="_blank"><img style="margin: 10px;" src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" height="50" /></a>
-<a href="https://github.com/" target="_blank"><img style="margin: 10px;" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Git" height="50" /></a>
-<a href="https://ruff.rs/" target="_blank"><img style="margin: 10px;" src="https://img.shields.io/badge/Ruff-000000?style=for-the-badge&logo=ruff&logoColor=white" alt="Ruff" height="50" /></a>
-<a href="https://jwt.io/" target="_blank"><img style="margin: 10px;" src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white" alt="JWT" height="50" /></a>
-<a href="https://playwright.dev/" target="_blank"><img style="margin: 10px;" src="https://img.shields.io/badge/Playwright-000000?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright" height="50" /></a>
-<a href="https://pypi.org/project/bcrypt/" target="_blank"><img style="margin: 10px;" src="https://img.shields.io/badge/Bcrypt-46B48D?style=for-the-badge&logo=pypi&logoColor=white" alt="Bcrypt" height="50" /></a>
+  <a href="https://www.uvicorn.org/" target="_blank"><img style="margin: 10px;" src="https://img.shields.io/badge/Uvicorn-21232B?style=for-the-badge&logo=uvicorn&logoColor=5FDBFB" alt="Uvicorn" height="50" /></a>
+  <a href="https://www.python.org/" target="_blank"><img style="margin: 10px;" src="https://img.shields.io/badge/Python-21232B?style=for-the-badge&logo=python&logoColor=5FDBFB" alt="Python" height="50" /></a>
+  <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px;" src="https://img.shields.io/badge/PostgreSQL-21232B?style=for-the-badge&logo=postgresql&logoColor=5FDBFB" alt="PostgreSQL" height="50" /></a>
+  <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px;" src="https://img.shields.io/badge/Docker-21232B?style=for-the-badge&logo=docker&logoColor=5FDBFB" alt="Docker" height="50" /></a>
+  <a href="https://alembic.sqlalchemy.org/en/latest/" target="_blank"><img style="margin: 10px;" src="https://img.shields.io/badge/Alembic-21232B?style=for-the-badge&logo=alembic&logoColor=5FDBFB" alt="Alembic" height="50" /></a>
+  <a href="https://www.sqlalchemy.org/" target="_blank"><img style="margin: 10px;" src="https://img.shields.io/badge/SQLAlchemy-21232B?style=for-the-badge&logo=sqlalchemy&logoColor=5FDBFB" alt="SQLAlchemy" height="50" /></a>
+  <a href="https://www.sqlite.org/index.html" target="_blank"><img style="margin: 10px;" src="https://img.shields.io/badge/SQLite-21232B?style=for-the-badge&logo=sqlite&logoColor=5FDBFB" alt="SQLite" height="50" /></a>
+  <a href="https://pydantic-docs.helpmanual.io/" target="_blank"><img style="margin: 10px;" src="https://img.shields.io/badge/Pydantic-21232B?style=for-the-badge&logo=pydantic&logoColor=5FDBFB" alt="Pydantic" height="50" /></a>
+  <a href="https://pypi.org/project/passlib/" target="_blank"><img style="margin: 10px;" src="https://img.shields.io/badge/Passlib-21232B?style=for-the-badge&logo=pypi&logoColor=5FDBFB" alt="Passlib" height="50" /></a>
+  <a href="https://pypi.org/project/bcrypt/" target="_blank"><img style="margin: 10px;" src="https://img.shields.io/badge/Bcrypt-21232B?style=for-the-badge&logo=pypi&logoColor=5FDBFB" alt="Bcrypt" height="50" /></a>
+  <a href="https://jwt.io/" target="_blank"><img style="margin: 10px;" src="https://img.shields.io/badge/JWT-21232B?style=for-the-badge&logo=json-web-tokens&logoColor=5FDBFB" alt="JWT" height="50" /></a>
+  <a href="https://fastapi.tiangolo.com/" target="_blank"><img style="margin: 10px;" src="https://img.shields.io/badge/FastAPI-21232B?style=for-the-badge&logo=fastapi&logoColor=5FDBFB" alt="FastAPI" height="50" /></a>
+  <a href="https://github.com/" target="_blank"><img style="margin: 10px;" src="https://img.shields.io/badge/GitHub-21232B?style=for-the-badge&logo=github&logoColor=5FDBFB" alt="Git" height="50" /></a>
+  <a href="https://ruff.rs/" target="_blank"><img style="margin: 10px;" src="https://img.shields.io/badge/Ruff-21232B?style=for-the-badge&logo=ruff&logoColor=5FDBFB" alt="Ruff" height="50" /></a>
+  <a href="https://mistral.ai/" target="_blank"><img style="margin: 10px;" src="https://img.shields.io/badge/Mistral_AI-21232B?style=for-the-badge&logo=mistral&logoColor=5FDBFB" alt="Mistral AI" height="50" /></a>
+  <a href="https://pytest.org/" target="_blank"><img style="margin: 10px;" src="https://img.shields.io/badge/Pytest-21232B?style=for-the-badge&logo=pytest&logoColor=5FDBFB" alt="Pytest" height="50" /></a>
+  <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px;" src="https://img.shields.io/badge/Bash-21232B?style=for-the-badge&logo=gnu-bash&logoColor=5FDBFB" alt="Bash" height="50" /></a>
+  <a href="https://supabase.com/" target="_blank"><img style="margin: 10px;" src="https://img.shields.io/badge/Supabase-21232B?style=for-the-badge&logo=supabase&logoColor=5FDBFB" alt="Supabase" height="50" /></a>
+  <a href="https://render.com/" target="_blank"><img style="margin: 10px;" src="https://img.shields.io/badge/Render-21232B?style=for-the-badge&logo=render&logoColor=5FDBFB" alt="Render" height="50" /></a>
 </div>
 
 <br/>  
 
 ## 📈 GitHub Stats
 
-<div>
-  <img align="center" src="https://github-readme-streak-stats-eight.vercel.app/?user=mynamemyway&theme=react" width="51%" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mynamemyway&layout=compact&show_icons=true&theme=react" alt="mynamemyway github-readme-stats" width="48%" />
+<div align="center">
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=mynamemyway&theme=react" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mynamemyway&layout=compact&show_icons=true&theme=react" alt="mynamemyway github-readme-stats" height="200" />
 </div>
-
-<br />
 
 ##
 
