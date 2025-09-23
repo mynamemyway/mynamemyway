@@ -85,11 +85,11 @@ me.say_hi()
   <a href="https://www.python.org/" target="_blank"><img style="margin: 10px;" src="https://img.shields.io/badge/Python-21232B?style=for-the-badge&logo=python&logoColor=5FDBFB" alt="Python" height="50" /></a>
   <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px;" src="https://img.shields.io/badge/PostgreSQL-21232B?style=for-the-badge&logo=postgresql&logoColor=5FDBFB" alt="PostgreSQL" height="50" /></a>
   <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px;" src="https://img.shields.io/badge/Docker-21232B?style=for-the-badge&logo=docker&logoColor=5FDBFB" alt="Docker" height="50" /></a>
+  <a href="https://jwt.io/" target="_blank"><img style="margin: 10px;" src="https://img.shields.io/badge/JWT-21232B?style=for-the-badge&logo=json-web-tokens&logoColor=5FDBFB" alt="JWT" height="50" /></a>
   <a href="https://www.sqlalchemy.org/" target="_blank"><img style="margin: 10px;" src="https://img.shields.io/badge/SQLAlchemy-21232B?style=for-the-badge&logo=sqlalchemy&logoColor=5FDBFB" alt="SQLAlchemy" height="50" /></a>
   <a href="https://www.sqlite.org/index.html" target="_blank"><img style="margin: 10px;" src="https://img.shields.io/badge/SQLite-21232B?style=for-the-badge&logo=sqlite&logoColor=5FDBFB" alt="SQLite" height="50" /></a>
   <a href="https://pydantic-docs.helpmanual.io/" target="_blank"><img style="margin: 10px;" src="https://img.shields.io/badge/Pydantic-21232B?style=for-the-badge&logo=pydantic&logoColor=5FDBFB" alt="Pydantic" height="50" /></a>
   <a href="https://pypi.org/project/passlib/" target="_blank"><img style="margin: 10px;" src="https://img.shields.io/badge/Passlib-21232B?style=for-the-badge&logo=pypi&logoColor=5FDBFB" alt="Passlib" height="50" /></a>
-  <a href="https://jwt.io/" target="_blank"><img style="margin: 10px;" src="https://img.shields.io/badge/JWT-21232B?style=for-the-badge&logo=json-web-tokens&logoColor=5FDBFB" alt="JWT" height="50" /></a>
   <a href="https://fastapi.tiangolo.com/" target="_blank"><img style="margin: 10px;" src="https://img.shields.io/badge/FastAPI-21232B?style=for-the-badge&logo=fastapi&logoColor=5FDBFB" alt="FastAPI" height="50" /></a>
   <a href="https://github.com/" target="_blank"><img style="margin: 10px;" src="https://img.shields.io/badge/GitHub-21232B?style=for-the-badge&logo=github&logoColor=5FDBFB" alt="Git" height="50" /></a>
   <a href="https://ruff.rs/" target="_blank"><img style="margin: 10px;" src="https://img.shields.io/badge/Ruff-21232B?style=for-the-badge&logo=ruff&logoColor=5FDBFB" alt="Ruff" height="50" /></a>
@@ -104,8 +104,8 @@ me.say_hi()
 ## 📉 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=mynamemyway&theme=react" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api?username=mynamemyway&layout=compact&show_icons=true&theme=react" alt="mynamemyway github-readme-stats" height="170" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=mynamemyway&theme=react" height="168" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mynamemyway&layout=compact&show_icons=true&theme=react" alt="mynamemyway github-readme-stats" height="168" />
 </div>
 
 ##
