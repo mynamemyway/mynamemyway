@@ -90,6 +90,10 @@ Backend часть построена мной с нуля: от архитек�
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mynamemyway&theme=ayu_mirage" height="158" />
 </div>
 
+<div align="center">
+  <img src="https://github.com/mynamemyway/mynamemyway/blob/main/github-metrics.svg" />
+</div>
+
 ##
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=mynamemyway&&style=flat-square)
