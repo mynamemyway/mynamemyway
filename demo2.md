@@ -79,7 +79,7 @@ me.say_hi()
 
 <br/>
 
-## 🛠 Стэк  
+## 🛠 Stack and tools
 <div align="center">
 <a href="https://www.uvicorn.org/" target="_blank"><img style="margin: 10px;" src="https://img.shields.io/badge/Uvicorn-FF4088?style=for-the-badge&logo=uvicorn&logoColor=white" alt="Uvicorn" height="50" /></a>
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px;" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" height="50" /></a>
@@ -100,13 +100,14 @@ me.say_hi()
 
 <br/>  
 
-## 🔥 Github Stats  
+## 📈 GitHub Stats
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=mynamemyway&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+<div>
+  <img align="center" src="https://github-readme-streak-stats-eight.vercel.app/?user=mynamemyway&theme=react" width="51%" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mynamemyway&layout=compact&show_icons=true&theme=react" alt="mynamemyway github-readme-stats" width="48%" />
 </div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mynamemyway&show_icons=true&theme=transparent)
+<br />
 
 ##
 
