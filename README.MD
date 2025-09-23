@@ -81,7 +81,6 @@ me.say_hi()
 
 ## 🛠 Stack and tools
 <div align="center">
-  <a href="https://www.uvicorn.org/" target="_blank"><img style="margin: 10px;" src="https://img.shields.io/badge/Uvicorn-21232B?style=for-the-badge&logo=uvicorn&logoColor=5FDBFB" alt="Uvicorn" height="50" /></a>
   <a href="https://www.python.org/" target="_blank"><img style="margin: 10px;" src="https://img.shields.io/badge/Python-21232B?style=for-the-badge&logo=python&logoColor=5FDBFB" alt="Python" height="50" /></a>
   <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px;" src="https://img.shields.io/badge/PostgreSQL-21232B?style=for-the-badge&logo=postgresql&logoColor=5FDBFB" alt="PostgreSQL" height="50" /></a>
   <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px;" src="https://img.shields.io/badge/Docker-21232B?style=for-the-badge&logo=docker&logoColor=5FDBFB" alt="Docker" height="50" /></a>
@@ -95,7 +94,6 @@ me.say_hi()
   <a href="https://fastapi.tiangolo.com/" target="_blank"><img style="margin: 10px;" src="https://img.shields.io/badge/FastAPI-21232B?style=for-the-badge&logo=fastapi&logoColor=5FDBFB" alt="FastAPI" height="50" /></a>
   <a href="https://github.com/" target="_blank"><img style="margin: 10px;" src="https://img.shields.io/badge/GitHub-21232B?style=for-the-badge&logo=github&logoColor=5FDBFB" alt="Git" height="50" /></a>
   <a href="https://ruff.rs/" target="_blank"><img style="margin: 10px;" src="https://img.shields.io/badge/Ruff-21232B?style=for-the-badge&logo=ruff&logoColor=5FDBFB" alt="Ruff" height="50" /></a>
-  <a href="https://mistral.ai/" target="_blank"><img style="margin: 10px;" src="https://img.shields.io/badge/Mistral_AI-21232B?style=for-the-badge&logo=mistral&logoColor=5FDBFB" alt="Mistral AI" height="50" /></a>
   <a href="https://pytest.org/" target="_blank"><img style="margin: 10px;" src="https://img.shields.io/badge/Pytest-21232B?style=for-the-badge&logo=pytest&logoColor=5FDBFB" alt="Pytest" height="50" /></a>
   <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px;" src="https://img.shields.io/badge/Bash-21232B?style=for-the-badge&logo=gnu-bash&logoColor=5FDBFB" alt="Bash" height="50" /></a>
   <a href="https://supabase.com/" target="_blank"><img style="margin: 10px;" src="https://img.shields.io/badge/Supabase-21232B?style=for-the-badge&logo=supabase&logoColor=5FDBFB" alt="Supabase" height="50" /></a>
