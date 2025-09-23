@@ -53,7 +53,7 @@ Backend часть построена мной с нуля: от архитек�
 </td><td valign="top" width="50%">
 
 <div align="center">
-<img src="https://i.ibb.co/GvQYhYj3/5fecb383-7c5d-4893-bd26-7aa44fa12f30.jpg" align="center" style="width: 40%" />
+<img src="https://i.ibb.co/GvQYhYj3/5fecb383-7c5d-4893-bd26-7aa44fa12f30.jpg" align="center" style="width: 45%" />
 </div>
 
 </td></tr></table>
