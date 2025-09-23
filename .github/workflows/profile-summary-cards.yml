@@ -12,5 +12,5 @@ jobs:
       - uses: actions/checkout@v2
       - uses: vn7n24fzkq/github-profile-summary-cards@release
         with:
-          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
           USERNAME: mynamemyway
+          AUTO_PUSH: ${{ secrets.GH_TOKEN }}
