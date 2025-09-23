@@ -51,9 +51,8 @@ Backend часть построена мной с нуля: от архитек�
 🚀 Буду рад предложениям к сотрудничеству
 
 </td><td valign="top" width="50%">
-
 <div align="center">
-<img src="https://i.ibb.co/GvQYhYj3/5fecb383-7c5d-4893-bd26-7aa44fa12f30.jpg" align="center" style="width: 45%" />
+<img width="556" height="654" alt="1" src="https://github.com/user-attachments/assets/60d1faf5-7666-4ddb-bb7c-9de5745fc947" align="center" style="width: 45%" />
 </div>
 
 </td></tr></table>
