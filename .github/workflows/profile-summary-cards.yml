@@ -1,4 +1,4 @@
-name: GitHub-Profile-Summary-Cards
+name: Update GitHub Stats
 
 on:
   schedule:
@@ -6,12 +6,16 @@ on:
   workflow_dispatch:
 
 jobs:
-  metrics-cards:
+  update-stats:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
-      - uses: vn7n24fzkq/github-profile-summary-cards@release
+      - uses: actions/checkout@v3
+      - name: Generate GitHub stats
+        uses: lowlighter/metrics@latest
         with:
-          USERNAME: mynamemyway
-          AUTO_PUSH: true
-          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
+          token: ${{ secrets.GH_TOKEN }}
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+          base: header, activity, community, repositories, metadata
+          config_timezone: Europe/Moscow
+          output_filepath: stats.svg
