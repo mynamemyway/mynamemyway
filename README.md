@@ -64,7 +64,15 @@ Backend часть построена мной с нуля: от архитек�
 
 <br/>
 
-## 🛠 Stack and tools  
+## 📈 Github Stats  
+
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mynamemyway&theme=ayu_mirage" height="158" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mynamemyway&theme=ayu_mirage" height="158" />
+</div>
+
+##
+
 <div align="center">
   <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>
   <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>
@@ -80,16 +88,9 @@ Backend часть построена мной с нуля: от архитек�
   <a href="https://apple.com" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/macos-colored-dark.svg" alt="MacOS" height="50" /></a>
 </div>
 
-<br/>  
-
-
-## 📈 Github Stats  
+<br/>
 
 <div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mynamemyway&theme=ayu_mirage" height="158" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mynamemyway&theme=ayu_mirage" height="158" />
-</div>
-
-##
-
+  
 ![Profile views counter](https://komarev.com/ghpvc/?username=mynamemyway&&style=flat-square)
+</div>
