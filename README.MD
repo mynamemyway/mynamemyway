@@ -107,8 +107,8 @@ me.say_hi()
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=mynamemyway&theme=react" height="200" />
-  <img src="https://github-readme-stats.vercel.app/api?username=mynamemyway&layout=compact&show_icons=true&theme=react" alt="mynamemyway github-readme-stats" height="200" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=mynamemyway&theme=react" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mynamemyway&layout=compact&show_icons=true&theme=react" alt="mynamemyway github-readme-stats" height="170" />
 </div>
 
 ##
