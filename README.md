@@ -1,4 +1,4 @@
-## 👋 Привет! Меня зовут Александр и я рад видеть Вас тут! 
+## 👋 Меня зовут Александр, рад приветствовать Вас тут! 
 
 <br/>
 
@@ -7,7 +7,12 @@
 </a>
 <a href="https://github.com/mynamemyway" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>  
+</a>
+<a href="https://t.me/mynamemyway" target="_blank">
+<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" height="50" />
+</a>
+
+<br/> 
 
 ## 👨‍💻 О себе: 
 
@@ -81,8 +86,8 @@ Backend часть построена мной с нуля: от архитек�
 ## 📈 Github Stats  
 
 <div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mynamemyway&theme=ayu_mirage" height="159" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mynamemyway&theme=ayu_mirage" height="159" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mynamemyway&theme=ayu_mirage" height="158" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mynamemyway&theme=ayu_mirage" height="158" />
 </div>
 
 ##
