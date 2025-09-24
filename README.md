@@ -71,7 +71,7 @@ me.say_hi()
 
 📲 Буду рад предложениям к сотрудничеству 🚀
 
-</td><td valign="top" width="50%">
+</td><td valign="top" width="30%">
 <div align="center">
 <img width="556" height="654" alt="1" src="https://github.com/user-attachments/assets/60d1faf5-7666-4ddb-bb7c-9de5745fc947" align="center" style="width: 45%" />
 </div>
