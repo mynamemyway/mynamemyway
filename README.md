@@ -97,6 +97,7 @@ me.say_hi()
   <a href="https://pytest.org/" target="_blank"><img style="margin: 10px;" src="https://img.shields.io/badge/Pytest-21232B?style=for-the-badge&logo=pytest&logoColor=5FDBFB" alt="Pytest" height="50" /></a>
   <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px;" src="https://img.shields.io/badge/Bash-21232B?style=for-the-badge&logo=gnu-bash&logoColor=5FDBFB" alt="Bash" height="50" /></a>
   <a href="https://render.com/" target="_blank"><img style="margin: 10px;" src="https://img.shields.io/badge/Render-21232B?style=for-the-badge&logo=render&logoColor=5FDBFB" alt="Render" height="50" /></a>
+<a href="https://www.apple.com/macos/" target="_blank"><img style="margin: 10px;" src="https://img.shields.io/badge/mac-21232B?style=for-the-badge&logo=macos&logoColor=5FDBFB" alt="macOS" height="50" /></a>
 </div>
 
 <br/>  
