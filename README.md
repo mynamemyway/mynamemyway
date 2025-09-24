@@ -93,7 +93,7 @@ Mini-app приложение для управления контактами �
 
 </td><td valign="top" width="30%">
 <div align="center">
-<img width="590" height="750" alt="2" src="https://github.com/user-attachments/assets/2529629b-c417-43dc-9690-32d99c310c92" align="center" style="width: 55%" />
+<img width="590" height="750" alt="2" src="https://github.com/user-attachments/assets/2529629b-c417-43dc-9690-32d99c310c92" align="center" style="width: 70%" />
 </div>
 
 </td></tr></table>
