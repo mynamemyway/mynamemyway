@@ -46,11 +46,14 @@ Mini-app приложение для управления контактами �
 
 <details>
 <summary>🎞 Посмотреть скрины проекта db, тестирования и работы AI скрапера</summary>
+  
+<br/>
+
 <div align="center">
-  <img width="2560" height="1596" alt="image" src="https://github.com/user-attachments/assets/fffd1bdb-2310-450e-9e79-65f1a60f69c3" style="width: 40%" />
-  <img width="1279" height="799" alt="PN_Parser" src="https://github.com/user-attachments/assets/2f63e227-8528-46da-8949-2a29f265ae5d" style="width: 40%" />
-  <img width="1309" height="890" alt="image" src="https://github.com/user-attachments/assets/c4f0206f-5fd0-4c08-8518-ffb7ef177ca7" style="width: 40%" />
-  <img width="2218" height="538" alt="image" src="https://github.com/user-attachments/assets/a4683780-6b7c-4559-8886-ab36209c0d74" style="width: 40%" />
+  <img width="2560" height="1596" alt="image" src="https://github.com/user-attachments/assets/fffd1bdb-2310-450e-9e79-65f1a60f69c3" style="width: 41%" />
+  <img width="1279" height="799" alt="PN_Parser" src="https://github.com/user-attachments/assets/2f63e227-8528-46da-8949-2a29f265ae5d" style="width: 41%" />
+  <img width="1309" height="890" alt="image" src="https://github.com/user-attachments/assets/c4f0206f-5fd0-4c08-8518-ffb7ef177ca7" style="width: 41%" />
+  <img width="2218" height="538" alt="image" src="https://github.com/user-attachments/assets/a4683780-6b7c-4559-8886-ab36209c0d74" style="width: 41%" />
 </div>
 
 </details>
