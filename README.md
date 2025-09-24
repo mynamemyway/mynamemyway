@@ -41,6 +41,7 @@ me.say_hi()
 <br/>
 
 ## 🌐 Проект над которым работаю сейчас
+
 [PrimeNetworking](https://github.com/mynamemyway/PrimeNet_Demo_Documentation) (документация доступна для демонстрации).  
 Mini-app приложение для управления контактами с функциями AI, уведомлениями и реферальной системой.
 
@@ -60,7 +61,8 @@ Mini-app приложение для управления контактами �
 
 <br/>
 
-## 📘 Подход к реализации и результаты  
+## 📘 Подход к реализации и результаты
+
 - Production-ready решение: Разработал полноценный продукт, который решает поставленную бизнес задачу;
 - Архитектура: Спроектировал с нуля db models и умную логику учета аккаунтов для наполнения db чистыми данными;
 - Автоматизация процессов: API банка для оплаты подписки, JWT-аутентификация, крон-задачи, вебхуки, логирование;
@@ -74,7 +76,8 @@ Mini-app приложение для управления контактами �
 
 <br/>
 
-## 📬 Обратная связь  
+## 📬 Обратная связь
+
 <table><tr><td valign="top" width="50%">
 
 **Если Вам нужен разработчик, который:**  
@@ -98,6 +101,7 @@ Mini-app приложение для управления контактами �
 <br/>
 
 ## 🧊 Stack and tools
+
 <div align="center">
   <a href="https://www.python.org/" target="_blank"><img style="margin: 10px;" src="https://img.shields.io/badge/Python-21232B?style=for-the-badge&logo=python&logoColor=5FDBFB" alt="Python" height="50" /></a>
   <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px;" src="https://img.shields.io/badge/PostgreSQL-21232B?style=for-the-badge&logo=postgresql&logoColor=5FDBFB" alt="PostgreSQL" height="50" /></a>
@@ -114,7 +118,7 @@ Mini-app приложение для управления контактами �
   <a href="https://pytest.org/" target="_blank"><img style="margin: 10px;" src="https://img.shields.io/badge/Pytest-21232B?style=for-the-badge&logo=pytest&logoColor=5FDBFB" alt="Pytest" height="50" /></a>
   <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px;" src="https://img.shields.io/badge/Bash-21232B?style=for-the-badge&logo=gnu-bash&logoColor=5FDBFB" alt="Bash" height="50" /></a>
   <a href="https://render.com/" target="_blank"><img style="margin: 10px;" src="https://img.shields.io/badge/Render-21232B?style=for-the-badge&logo=render&logoColor=5FDBFB" alt="Render" height="50" /></a>
-<a href="https://www.apple.com/macos/" target="_blank"><img style="margin: 10px;" src="https://img.shields.io/badge/mac-21232B?style=for-the-badge&logo=macos&logoColor=5FDBFB" alt="macOS" height="50" /></a>
+  <a href="https://www.apple.com/macos/" target="_blank"><img style="margin: 10px;" src="https://img.shields.io/badge/mac-21232B?style=for-the-badge&logo=macos&logoColor=5FDBFB" alt="macOS" height="50" /></a>
 </div>
 
 <br/>
