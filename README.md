@@ -28,7 +28,7 @@ class BackendDeveloper:
         self.code_philosophy = "Чистый, эффективный и документированный код"
         self.technologies = ["Python", "FastAPI", "SQLAlchemy", "Pydantic", "Alembic", "Uvicorn"]
         self.databases = ["PostgreSQL", "SQLite"]
-        self.status = "Работаю и развиваюсь"
+        self.status = ["Study, Work, Development"]
 
     def say_hi(self):
         print("Спасибо, что заглянули, надеюсь, вам будет интересна моя работа.")
