@@ -1,4 +1,4 @@
-## 🪬 Меня зовут Александр, рад приветствовать Вас тут!
+## Меня зовут Александр, рад приветствовать Вас тут
 
 <div align="left">
   <a href="https://t.me/mynamemyway" target="_blank">
@@ -42,7 +42,7 @@ me.say_hi()
 
 ## 🌐 Реализация коммерческих проектов ведётся в [MyWay Labs](https://github.com/myway-labs)
 
-- [PrimeNetworking](https://github.com/myway-labs/prime-net-docs-mw)  
+- [PrimeNetworking](https://github.com/myway-labs/prime-net-docs-mw) (Документация)  
 Mini-app приложение для управления контактами с функциями AI, уведомлениями и реферальной системой.  
 
 - [Антошкин Дворик](https://github.com/myway-labs/antoshkin-pwa-card)  
@@ -53,15 +53,15 @@ PWA-система цифровых дисконтных карт лояльно
 AI-Telegram bot в роли эксперта по печатной продукции и рекламе с калькулятором услуг агенства.  
 Автономно на основе векторной базы знаний помогает клиентам рассчитать и оформить заказ.  
 
-- [CRM + ERP](https://github.com/myway-labs/piranha-grist-db-docs)  
+- [CRM + ERP](https://github.com/myway-labs/piranha-grist-db-docs) (Документация)  
 Cистема для управления заказами типографии [ПИРАНЬЯ](https://mir-pr.ru/) включает в себя:
   - Бизнес-логику
   - Автоматизации и валидации
   - Гибкую настройку прав доступа к различным модулям
   - API интеграции с Контур Эльба и интернет эквайрингом
 
-- [Portfolio-AI](https://t.me/portfolio_py_ai_bot) - (личный проект, ссылка на бота) 
-[Репо](https://github.com/mynamemyway/portfolio-ai)  
+- [Portfolio-AI](https://t.me/portfolio_py_ai_bot) - (личный проект, ссылка на бота)  
+[Репозиторий](https://github.com/mynamemyway/portfolio-ai)  
 AI-Telegram bot в роли цифрового портфолио и консультанта.  
 Автономно на основе векторной базы знаний презентует разработчика, его проекты и экспертизу.  
 
