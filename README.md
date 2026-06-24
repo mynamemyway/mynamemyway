@@ -112,6 +112,10 @@ AI-Telegram bot в роли цифрового портфолио и консу�
 
 <div align="center">
   <a href="https://www.python.org/" target="_blank"><img style="margin: 10px;" src="https://img.shields.io/badge/Python-21232B?style=for-the-badge&logo=python&logoColor=5FDBFB" alt="Python" height="50" /></a>
+  <a href="https://zed.dev/" target="_blank"><img style="margin: 10px;" src="https://img.shields.io/badge/Zed-21232B?style=for-the-badge&logo=zedindustries&logoColor=5FDBFB" alt="Zed" height="50" /></a>
+  <a href="https://ruff.rs/" target="_blank"><img style="margin: 10px;" src="https://img.shields.io/badge/Ruff-21232B?style=for-the-badge&logo=ruff&logoColor=5FDBFB" alt="Ruff" height="50" /></a>
+  <a href="https://github.com/detachhead/basedpyright" target="_blank"><img style="margin: 10px;" src="https://img.shields.io/badge/BasedPyright-21232B?style=for-the-badge&logo=python&logoColor=5FDBFB" alt="BasedPyright" height="50" /></a>
+  <a href="https://pytest.org/" target="_blank"><img style="margin: 10px;" src="https://img.shields.io/badge/Pytest-21232B?style=for-the-badge&logo=pytest&logoColor=5FDBFB" alt="Pytest" height="50" /></a>
   <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px;" src="https://img.shields.io/badge/PostgreSQL-21232B?style=for-the-badge&logo=postgresql&logoColor=5FDBFB" alt="PostgreSQL" height="50" /></a>
   <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px;" src="https://img.shields.io/badge/Docker-21232B?style=for-the-badge&logo=docker&logoColor=5FDBFB" alt="Docker" height="50" /></a>
   <a href="https://supabase.com/" target="_blank"><img style="margin: 10px;" src="https://img.shields.io/badge/Supabase-21232B?style=for-the-badge&logo=supabase&logoColor=5FDBFB" alt="Supabase" height="50" /></a>
@@ -122,10 +126,6 @@ AI-Telegram bot в роли цифрового портфолио и консу�
   <a href="https://www.sqlite.org/index.html" target="_blank"><img style="margin: 10px;" src="https://img.shields.io/badge/SQLite-21232B?style=for-the-badge&logo=sqlite&logoColor=5FDBFB" alt="SQLite" height="50" /></a>
   <a href="https://fastapi.tiangolo.com/" target="_blank"><img style="margin: 10px;" src="https://img.shields.io/badge/FastAPI-21232B?style=for-the-badge&logo=fastapi&logoColor=5FDBFB" alt="FastAPI" height="50" /></a>
   <a href="https://github.com/" target="_blank"><img style="margin: 10px;" src="https://img.shields.io/badge/GitHub-21232B?style=for-the-badge&logo=github&logoColor=5FDBFB" alt="Git" height="50" /></a>
-  <a href="https://zed.dev/" target="_blank"><img style="margin: 10px;" src="https://img.shields.io/badge/Zed-21232B?style=for-the-badge&logo=zedindustries&logoColor=5FDBFB" alt="Zed" height="50" /></a>
-  <a href="https://ruff.rs/" target="_blank"><img style="margin: 10px;" src="https://img.shields.io/badge/Ruff-21232B?style=for-the-badge&logo=ruff&logoColor=5FDBFB" alt="Ruff" height="50" /></a>
-  <a href="https://github.com/detachhead/basedpyright" target="_blank"><img style="margin: 10px;" src="https://img.shields.io/badge/BasedPyright-21232B?style=for-the-badge&logo=python&logoColor=5FDBFB" alt="BasedPyright" height="50" /></a>
-  <a href="https://pytest.org/" target="_blank"><img style="margin: 10px;" src="https://img.shields.io/badge/Pytest-21232B?style=for-the-badge&logo=pytest&logoColor=5FDBFB" alt="Pytest" height="50" /></a>
   <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px;" src="https://img.shields.io/badge/Bash-21232B?style=for-the-badge&logo=gnu-bash&logoColor=5FDBFB" alt="Bash" height="50" /></a>
   <a href="https://render.com/" target="_blank"><img style="margin: 10px;" src="https://img.shields.io/badge/Render-21232B?style=for-the-badge&logo=render&logoColor=5FDBFB" alt="Render" height="50" /></a>
   <a href="https://www.apple.com/macos/" target="_blank"><img style="margin: 10px;" src="https://img.shields.io/badge/mac-21232B?style=for-the-badge&logo=macos&logoColor=5FDBFB" alt="macOS" height="50" /></a>
