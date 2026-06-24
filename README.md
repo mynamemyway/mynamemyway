@@ -21,7 +21,7 @@ class BackendDeveloper:
 
     def __init__(self):
         self.name = "Александр"
-        self.age = 34
+        self.age = 35
         self.role = "Python Backend-разработчик"
         self.language_spoken = ["ru_RU", "en_US", "py_PY"]
         self.specialization = "Строю умные и масштабируемые серверные системы"
