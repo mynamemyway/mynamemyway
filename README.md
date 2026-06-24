@@ -113,7 +113,7 @@ AI-Telegram bot в роли цифрового портфолио и консу�
 <div align="center">
   <a href="https://www.python.org/" target="_blank"><img style="margin: 10px;" src="https://img.shields.io/badge/Python-21232B?style=for-the-badge&logo=python&logoColor=5FDBFB" alt="Python" height="50" /></a>
   <a href="https://ruff.rs/" target="_blank"><img style="margin: 10px;" src="https://img.shields.io/badge/Ruff-21232B?style=for-the-badge&logo=ruff&logoColor=5FDBFB" alt="Ruff" height="50" /></a>
-  <a href="https://github.com/detachhead/basedpyright" target="_blank"><img style="margin: 10px;" src="https://img.shields.io/badge/BasedPyright-21232B?style=for-the-badge&logo=python&logoColor=5FDBFB" alt="BasedPyright" height="50" /></a>
+  <a href="https://github.com/detachhead/basedpyright" target="_blank"><img style="margin: 10px;" src="https://img.shields.io/badge/Based.Pyright-21232B?style=for-the-badge&logo=python&logoColor=5FDBFB" alt="BasedPyright" height="50" /></a>
   <a href="https://pytest.org/" target="_blank"><img style="margin: 10px;" src="https://img.shields.io/badge/Pytest-21232B?style=for-the-badge&logo=pytest&logoColor=5FDBFB" alt="Pytest" height="50" /></a>
   <a href="https://pydantic-docs.helpmanual.io/" target="_blank"><img style="margin: 10px;" src="https://img.shields.io/badge/Pydantic-21232B?style=for-the-badge&logo=pydantic&logoColor=5FDBFB" alt="Pydantic" height="50" /></a>
   <a href="https://fastapi.tiangolo.com/" target="_blank"><img style="margin: 10px;" src="https://img.shields.io/badge/FastAPI-21232B?style=for-the-badge&logo=fastapi&logoColor=5FDBFB" alt="FastAPI" height="50" /></a>
