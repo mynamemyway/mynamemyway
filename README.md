@@ -42,26 +42,26 @@ me.say_hi()
 
 ## 🌐 Реализация коммерческих проектов ведётся в [MyWay Labs](https://github.com/myway-labs)
 
-- [PrimeNetworking](https://github.com/myway-labs/prime-net-docs-mw) (Документация)  
+- [PrimeNetworking](https://github.com/myway-labs/prime-net-docs-mw) (Mini-app, документация)  
 Mini-app приложение для управления контактами с функциями AI, уведомлениями и реферальной системой.  
 
 - [Антошкин Дворик](https://card.rassada1.ru) (Вэб-приложение)  
-  [Код](https://github.com/myway-labs/antoshkin-pwa-card) (Репозиторий)  
 PWA-система цифровых дисконтных карт лояльности для сети цветочных магазинов «Антошкин дворик».  
 Автоматизирует сбор базы реальных клиентов и генерацию персональных QR-кодов.
 
-- [Mr. Banners 2.0](https://t.me/mir_piar_bot) (ссылка на бота)  
+- [Mr. Banners 2.0](https://t.me/mir_piar_bot) (Телеграм бот)  
 AI-Telegram bot в роли эксперта по печатной продукции и рекламе с калькулятором услуг агенства.  
 Автономно на основе векторной базы знаний помогает клиентам рассчитать и оформить заказ.  
 
-- [CRM + ERP](https://github.com/myway-labs/piranha-grist-db-docs) (Документация)  
+- [CRM + ERP](https://github.com/myway-labs/piranha-grist-db-docs) (Система учета, документация)  
 Cистема для управления заказами типографии [ПИРАНЬЯ](https://mir-pr.ru/) включает в себя:
   - Бизнес-логику
   - Автоматизации и валидации
   - Гибкую настройку прав доступа к различным модулям
   - API интеграции с **Контур.Эльба** и интернет эквайрингом **Т-Банк**
+  - Кастомные виджеты (автоматическая товарная накладная и т.п.)
 
-- [Portfolio-AI](https://t.me/portfolio_py_ai_bot) - (личный проект, ссылка на бота)  
+- [Portfolio-AI](https://t.me/portfolio_py_ai_bot) - (Телеграм бот, pet-project)  
   [Код](https://github.com/mynamemyway/portfolio-ai) (Репозиторий)  
 AI-Telegram bot в роли цифрового портфолио и консультанта.  
 Автономно на основе векторной базы знаний презентует разработчика, его проекты и экспертизу.  
